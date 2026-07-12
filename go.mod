@@ -1,6 +1,6 @@
 module web-grapher
 
-go 1.27rc1
+go 1.26.4
 
 require (
 	github.com/gocolly/colly/v2 v2.3.0
