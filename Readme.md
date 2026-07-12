@@ -8,6 +8,10 @@ This visualization helps users understand how pages within a domain are intercon
 # Deployed on Render
 [web-grapher](https://web-grapher.onrender.com)
 
+# Example
+
+<video wudth="640" height="360" controls><source src="example/example.mp4" type="video/mp4"></video>
+
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
 - **Interactive Visualization**: Built using D3.js, the graph allows users to drag, zoom, and explore nodes.
