@@ -13,9 +13,7 @@ This visualization helps users understand how pages within a domain are intercon
 <video src="https://codeberg.org/abhyuday-fr/web-grapher/raw/branch/main/example/example.mp4" width="100%" autoplay loop muted playsinline>
 </video>
 
-<video src="https://github.com/abhyuday-fr/web-grapher-mirror/raw/branch/main/example/example.mp4" width="100%" autoplay loop muted playsinline>
-</video>
-
+[example video](example/example.mp4)
 
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
