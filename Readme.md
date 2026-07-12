@@ -10,9 +10,6 @@ This visualization helps users understand how pages within a domain are intercon
 
 # Example
 
-<video src="https://codeberg.org/abhyuday-fr/web-grapher/raw/branch/main/example/example.mp4" width="100%" autoplay loop muted playsinline>
-</video>
-
 [example video](example/example.mp4)
 
 ## Features
