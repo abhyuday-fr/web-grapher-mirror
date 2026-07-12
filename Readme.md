@@ -10,7 +10,7 @@ This visualization helps users understand how pages within a domain are intercon
 
 # Example
 
-<video src="example/example.mp4" width="100%">
+<video src="example/example.mp4" width="100%" autoplay loop muted playsinline>
   Your browser does not support the video tag.
 </video>
 
