@@ -1,7 +1,12 @@
+<img src="public/fevicon.ico" width="60" height="60"></img>
+
 # Web Graph Visualizer.. web-grapher
 The Web Graph Visualizer is a tool designed to map the internal structure of websites.
 By entering a target URL, the application crawls the site and generates an interactive, force-directed graph.
 This visualization helps users understand how pages within a domain are interconnected.
+
+# Deployed on Render
+[web-grapher](https://web-grapher.onrender.com)
 
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
@@ -31,8 +36,6 @@ To run the project locally, follow these steps:
       go run main.go
     ```
 4. Access: Open your browser and navigate to http://localhost:3000.
-
-## Deployment to Render
 
 ## Technical Details
 
