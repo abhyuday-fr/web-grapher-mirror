@@ -1,0 +1,1446 @@
+{
+  "nodes": [
+    {
+      "id": "https://gobyexample.com/worker-pools",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/channel-directions",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/number-parsing",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/structs",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/variables",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/timeouts",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/atomic-counters",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/sorting",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/http-client",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/enums",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/channel-buffering",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/recover",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/temporary-files-and-directories",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/command-line-arguments",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/http-server",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/recursion",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/epoch",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/line-filters",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/xml",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/range-over-iterators",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/non-blocking-channel-operations",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/panic",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/values",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/closures",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/directories",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/execing-processes",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/methods",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/tickers",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/waitgroups",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/time-formatting-parsing",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/functions",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/maps",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/struct-embedding",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/strings-and-runes",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/defer",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/json",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/text-templates",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/random-numbers",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/generics",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/goroutines",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/stateful-goroutines",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/mutexes",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/url-parsing",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/file-paths",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/testing-and-benchmarking",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/command-line-subcommands",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/range-over-built-in-types",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/arrays",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/switch",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/hello-world",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/select",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/rate-limiting",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/command-line-flags",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/exit",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/slices",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/pointers",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/range-over-channels",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/timers",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/regular-expressions",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/time",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/reading-files",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/embed-directive",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/constants",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/string-formatting",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/logging",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/tcp-server",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/if-else",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/channel-synchronization",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/channels",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/string-functions",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/base64-encoding",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/variadic-functions",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/interfaces",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/custom-errors",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/for",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/errors",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/sha256-hashes",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/writing-files",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/environment-variables",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/context",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/signals",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/spawning-processes",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/multiple-return-values",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/closing-channels",
+      "group": 1
+    },
+    {
+      "id": "https://gobyexample.com/sorting-by-functions",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/errors"
+    },
+    {
+      "source": "https://gobyexample.com/arrays",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/channels",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/regular-expressions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-flags",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/tcp-server",
+      "target": "https://gobyexample.com/context"
+    },
+    {
+      "source": "https://gobyexample.com/structs",
+      "target": "https://gobyexample.com/testing-and-benchmarking"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/random-numbers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/reading-files"
+    },
+    {
+      "source": "https://gobyexample.com/base64-encoding",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/context",
+      "target": "https://gobyexample.com/http-server"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/constants"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/channel-directions"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/string-functions"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/sha256-hashes"
+    },
+    {
+      "source": "https://gobyexample.com/reading-files",
+      "target": "https://gobyexample.com/writing-files"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/structs"
+    },
+    {
+      "source": "https://gobyexample.com/random-numbers",
+      "target": "https://gobyexample.com/number-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/signals",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/command-line-subcommands"
+    },
+    {
+      "source": "https://gobyexample.com/switch",
+      "target": "https://gobyexample.com/arrays"
+    },
+    {
+      "source": "https://gobyexample.com/variables",
+      "target": "https://gobyexample.com/constants"
+    },
+    {
+      "source": "https://gobyexample.com/enums",
+      "target": "https://gobyexample.com/struct-embedding"
+    },
+    {
+      "source": "https://gobyexample.com/number-parsing",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/url-parsing",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/maps"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/time"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-subcommands",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/environment-variables",
+      "target": "https://gobyexample.com/logging"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/hello-world"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/multiple-return-values"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/range-over-iterators"
+    },
+    {
+      "source": "https://gobyexample.com/for",
+      "target": "https://gobyexample.com/if-else"
+    },
+    {
+      "source": "https://gobyexample.com/slices",
+      "target": "https://gobyexample.com/maps"
+    },
+    {
+      "source": "https://gobyexample.com/multiple-return-values",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/pointers",
+      "target": "https://gobyexample.com/strings-and-runes"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-built-in-types",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/struct-embedding"
+    },
+    {
+      "source": "https://gobyexample.com/structs",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/channel-buffering",
+      "target": "https://gobyexample.com/channel-synchronization"
+    },
+    {
+      "source": "https://gobyexample.com/channel-synchronization",
+      "target": "https://gobyexample.com/waitgroups"
+    },
+    {
+      "source": "https://gobyexample.com/line-filters",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/execing-processes",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/channel-synchronization"
+    },
+    {
+      "source": "https://gobyexample.com/slices",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/goroutines",
+      "target": "https://gobyexample.com/channels"
+    },
+    {
+      "source": "https://gobyexample.com/rate-limiting",
+      "target": "https://gobyexample.com/atomic-counters"
+    },
+    {
+      "source": "https://gobyexample.com/temporary-files-and-directories",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-flags",
+      "target": "https://gobyexample.com/command-line-subcommands"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/timers"
+    },
+    {
+      "source": "https://gobyexample.com/recursion",
+      "target": "https://gobyexample.com/range-over-built-in-types"
+    },
+    {
+      "source": "https://gobyexample.com/time",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/tcp-server",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/sorting"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/execing-processes"
+    },
+    {
+      "source": "https://gobyexample.com/mutexes",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/string-functions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/json"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/line-filters"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/http-server"
+    },
+    {
+      "source": "https://gobyexample.com/values",
+      "target": "https://gobyexample.com/variables"
+    },
+    {
+      "source": "https://gobyexample.com/variadic-functions",
+      "target": "https://gobyexample.com/closures"
+    },
+    {
+      "source": "https://gobyexample.com/tickers",
+      "target": "https://gobyexample.com/timers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/arrays"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/http-client"
+    },
+    {
+      "source": "https://gobyexample.com/if-else",
+      "target": "https://gobyexample.com/switch"
+    },
+    {
+      "source": "https://gobyexample.com/custom-errors",
+      "target": "https://gobyexample.com/goroutines"
+    },
+    {
+      "source": "https://gobyexample.com/channel-buffering",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/atomic-counters",
+      "target": "https://gobyexample.com/mutexes"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/methods"
+    },
+    {
+      "source": "https://gobyexample.com/for",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/multiple-return-values",
+      "target": "https://gobyexample.com/variadic-functions"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-iterators",
+      "target": "https://gobyexample.com/generics"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/for"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/channel-buffering"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/logging"
+    },
+    {
+      "source": "https://gobyexample.com/enums",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/string-formatting",
+      "target": "https://gobyexample.com/text-templates"
+    },
+    {
+      "source": "https://gobyexample.com/recover",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/sha256-hashes",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/switch"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/regular-expressions"
+    },
+    {
+      "source": "https://gobyexample.com/channel-synchronization",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/panic",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/defer",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-arguments",
+      "target": "https://gobyexample.com/command-line-flags"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/strings-and-runes"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/custom-errors"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/range-over-channels"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/stateful-goroutines"
+    },
+    {
+      "source": "https://gobyexample.com/structs",
+      "target": "https://gobyexample.com/methods"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/if-else"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/epoch"
+    },
+    {
+      "source": "https://gobyexample.com/waitgroups",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/epoch",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/logging",
+      "target": "https://gobyexample.com/http-client"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/closing-channels"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-iterators",
+      "target": "https://gobyexample.com/errors"
+    },
+    {
+      "source": "https://gobyexample.com/timers",
+      "target": "https://gobyexample.com/tickers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/non-blocking-channel-operations"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/mutexes"
+    },
+    {
+      "source": "https://gobyexample.com/writing-files",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/command-line-flags"
+    },
+    {
+      "source": "https://gobyexample.com/channel-directions",
+      "target": "https://gobyexample.com/select"
+    },
+    {
+      "source": "https://gobyexample.com/rate-limiting",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/defer",
+      "target": "https://gobyexample.com/recover"
+    },
+    {
+      "source": "https://gobyexample.com/epoch",
+      "target": "https://gobyexample.com/time-formatting-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/constants",
+      "target": "https://gobyexample.com/for"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/directories"
+    },
+    {
+      "source": "https://gobyexample.com/json",
+      "target": "https://gobyexample.com/xml"
+    },
+    {
+      "source": "https://gobyexample.com/time",
+      "target": "https://gobyexample.com/epoch"
+    },
+    {
+      "source": "https://gobyexample.com/http-client",
+      "target": "https://gobyexample.com/http-server"
+    },
+    {
+      "source": "https://gobyexample.com/exit",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/time-formatting-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/time-formatting-parsing",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/http-client",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/timeouts",
+      "target": "https://gobyexample.com/non-blocking-channel-operations"
+    },
+    {
+      "source": "https://gobyexample.com/stateful-goroutines",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/string-functions",
+      "target": "https://gobyexample.com/string-formatting"
+    },
+    {
+      "source": "https://gobyexample.com/xml",
+      "target": "https://gobyexample.com/time"
+    },
+    {
+      "source": "https://gobyexample.com/if-else",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/methods",
+      "target": "https://gobyexample.com/interfaces"
+    },
+    {
+      "source": "https://gobyexample.com/interfaces",
+      "target": "https://gobyexample.com/switch"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/range-over-built-in-types"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/enums"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/sorting-by-functions"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/url-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/base64-encoding"
+    },
+    {
+      "source": "https://gobyexample.com/methods",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/goroutines",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/select",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/xml",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/rate-limiting",
+      "target": "https://gobyexample.com/tickers"
+    },
+    {
+      "source": "https://gobyexample.com/directories",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-subcommands",
+      "target": "https://gobyexample.com/environment-variables"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/variadic-functions"
+    },
+    {
+      "source": "https://gobyexample.com/pointers",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/text-templates",
+      "target": "https://gobyexample.com/regular-expressions"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/select"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/command-line-arguments"
+    },
+    {
+      "source": "https://gobyexample.com/channels",
+      "target": "https://gobyexample.com/channel-buffering"
+    },
+    {
+      "source": "https://gobyexample.com/regular-expressions",
+      "target": "https://gobyexample.com/json"
+    },
+    {
+      "source": "https://gobyexample.com/text-templates",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/url-parsing",
+      "target": "https://gobyexample.com/sha256-hashes"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/functions"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/interfaces"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/environment-variables"
+    },
+    {
+      "source": "https://gobyexample.com/waitgroups",
+      "target": "https://gobyexample.com/rate-limiting"
+    },
+    {
+      "source": "https://gobyexample.com/embed-directive",
+      "target": "https://gobyexample.com/testing-and-benchmarking"
+    },
+    {
+      "source": "https://gobyexample.com/context",
+      "target": "https://gobyexample.com/spawning-processes"
+    },
+    {
+      "source": "https://gobyexample.com/closing-channels",
+      "target": "https://gobyexample.com/channel-synchronization"
+    },
+    {
+      "source": "https://gobyexample.com/stateful-goroutines",
+      "target": "https://gobyexample.com/sorting"
+    },
+    {
+      "source": "https://gobyexample.com/execing-processes",
+      "target": "https://gobyexample.com/signals"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/timeouts"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/xml"
+    },
+    {
+      "source": "https://gobyexample.com/variadic-functions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/non-blocking-channel-operations",
+      "target": "https://gobyexample.com/closing-channels"
+    },
+    {
+      "source": "https://gobyexample.com/sorting",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/command-line-arguments",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/environment-variables",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/switch",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-built-in-types",
+      "target": "https://gobyexample.com/pointers"
+    },
+    {
+      "source": "https://gobyexample.com/atomic-counters",
+      "target": "https://gobyexample.com/worker-pools"
+    },
+    {
+      "source": "https://gobyexample.com/recover",
+      "target": "https://gobyexample.com/string-functions"
+    },
+    {
+      "source": "https://gobyexample.com/spawning-processes",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/mutexes",
+      "target": "https://gobyexample.com/atomic-counters"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/recursion"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/rate-limiting"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/recover"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/string-formatting"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/signals"
+    },
+    {
+      "source": "https://gobyexample.com/closures",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/closures",
+      "target": "https://gobyexample.com/recursion"
+    },
+    {
+      "source": "https://gobyexample.com/tickers",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/goroutines"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-iterators",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/goroutines",
+      "target": "https://gobyexample.com/waitgroups"
+    },
+    {
+      "source": "https://gobyexample.com/line-filters",
+      "target": "https://gobyexample.com/file-paths"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/pointers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/exit"
+    },
+    {
+      "source": "https://gobyexample.com/variables",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/struct-embedding",
+      "target": "https://gobyexample.com/embed-directive"
+    },
+    {
+      "source": "https://gobyexample.com/strings-and-runes",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/select",
+      "target": "https://gobyexample.com/timeouts"
+    },
+    {
+      "source": "https://gobyexample.com/closing-channels",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/time-formatting-parsing",
+      "target": "https://gobyexample.com/random-numbers"
+    },
+    {
+      "source": "https://gobyexample.com/worker-pools",
+      "target": "https://gobyexample.com/waitgroups"
+    },
+    {
+      "source": "https://gobyexample.com/panic",
+      "target": "https://gobyexample.com/defer"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/atomic-counters"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/panic"
+    },
+    {
+      "source": "https://gobyexample.com/timers",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/functions",
+      "target": "https://gobyexample.com/multiple-return-values"
+    },
+    {
+      "source": "https://gobyexample.com/non-blocking-channel-operations",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/logging",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/number-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/file-paths"
+    },
+    {
+      "source": "https://gobyexample.com/maps",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/hello-world",
+      "target": "https://gobyexample.com/values"
+    },
+    {
+      "source": "https://gobyexample.com/arrays",
+      "target": "https://gobyexample.com/slices"
+    },
+    {
+      "source": "https://gobyexample.com/number-parsing",
+      "target": "https://gobyexample.com/url-parsing"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/temporary-files-and-directories"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-built-in-types",
+      "target": "https://gobyexample.com/strings-and-runes"
+    },
+    {
+      "source": "https://gobyexample.com/interfaces",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/generics",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/atomic-counters",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/signals",
+      "target": "https://gobyexample.com/exit"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/writing-files"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-channels",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-channels",
+      "target": "https://gobyexample.com/range-over-built-in-types"
+    },
+    {
+      "source": "https://gobyexample.com/sorting",
+      "target": "https://gobyexample.com/sorting-by-functions"
+    },
+    {
+      "source": "https://gobyexample.com/random-numbers",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/context",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/strings-and-runes",
+      "target": "https://gobyexample.com/structs"
+    },
+    {
+      "source": "https://gobyexample.com/execing-processes",
+      "target": "https://gobyexample.com/spawning-processes"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/closures"
+    },
+    {
+      "source": "https://gobyexample.com/generics",
+      "target": "https://gobyexample.com/range-over-iterators"
+    },
+    {
+      "source": "https://gobyexample.com/worker-pools",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/mutexes",
+      "target": "https://gobyexample.com/stateful-goroutines"
+    },
+    {
+      "source": "https://gobyexample.com/execing-processes",
+      "target": "https://gobyexample.com/environment-variables"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/slices"
+    },
+    {
+      "source": "https://gobyexample.com/values",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/interfaces",
+      "target": "https://gobyexample.com/enums"
+    },
+    {
+      "source": "https://gobyexample.com/sha256-hashes",
+      "target": "https://gobyexample.com/base64-encoding"
+    },
+    {
+      "source": "https://gobyexample.com/writing-files",
+      "target": "https://gobyexample.com/line-filters"
+    },
+    {
+      "source": "https://gobyexample.com/testing-and-benchmarking",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/errors",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/waitgroups"
+    },
+    {
+      "source": "https://gobyexample.com/errors",
+      "target": "https://gobyexample.com/custom-errors"
+    },
+    {
+      "source": "https://gobyexample.com/channel-directions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/base64-encoding",
+      "target": "https://gobyexample.com/reading-files"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/values"
+    },
+    {
+      "source": "https://gobyexample.com/struct-embedding",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/temporary-files-and-directories",
+      "target": "https://gobyexample.com/embed-directive"
+    },
+    {
+      "source": "https://gobyexample.com/file-paths",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/maps",
+      "target": "https://gobyexample.com/functions"
+    },
+    {
+      "source": "https://gobyexample.com/struct-embedding",
+      "target": "https://gobyexample.com/generics"
+    },
+    {
+      "source": "https://gobyexample.com/tickers",
+      "target": "https://gobyexample.com/worker-pools"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/channels"
+    },
+    {
+      "source": "https://gobyexample.com/hello-world",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/json",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/variables"
+    },
+    {
+      "source": "https://gobyexample.com/constants",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/custom-errors",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/reading-files",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/spawning-processes",
+      "target": "https://gobyexample.com/execing-processes"
+    },
+    {
+      "source": "https://gobyexample.com/sorting-by-functions",
+      "target": "https://gobyexample.com/panic"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/defer"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/spawning-processes"
+    },
+    {
+      "source": "https://gobyexample.com/timeouts",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/functions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/testing-and-benchmarking",
+      "target": "https://gobyexample.com/command-line-arguments"
+    },
+    {
+      "source": "https://gobyexample.com/http-server",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/text-templates"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/embed-directive"
+    },
+    {
+      "source": "https://gobyexample.com/channel-synchronization",
+      "target": "https://gobyexample.com/channel-directions"
+    },
+    {
+      "source": "https://gobyexample.com/sorting-by-functions",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/directories",
+      "target": "https://gobyexample.com/temporary-files-and-directories"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/generics"
+    },
+    {
+      "source": "https://gobyexample.com/closing-channels",
+      "target": "https://gobyexample.com/range-over-channels"
+    },
+    {
+      "source": "https://gobyexample.com/stateful-goroutines",
+      "target": "https://gobyexample.com/mutexes"
+    },
+    {
+      "source": "https://gobyexample.com/mutexes",
+      "target": "https://gobyexample.com/defer"
+    },
+    {
+      "source": "https://gobyexample.com/sorting-by-functions",
+      "target": "https://gobyexample.com/testing-and-benchmarking"
+    },
+    {
+      "source": "https://gobyexample.com/string-formatting",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/file-paths",
+      "target": "https://gobyexample.com/directories"
+    },
+    {
+      "source": "https://gobyexample.com/http-server",
+      "target": "https://gobyexample.com/tcp-server"
+    },
+    {
+      "source": "https://gobyexample.com/range-over-channels",
+      "target": "https://gobyexample.com/timers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/context"
+    },
+    {
+      "source": "https://gobyexample.com/embed-directive",
+      "target": "https://gobyexample.com/"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/tickers"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/worker-pools"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/testing-and-benchmarking"
+    },
+    {
+      "source": "https://gobyexample.com/",
+      "target": "https://gobyexample.com/tcp-server"
+    },
+    {
+      "source": "https://gobyexample.com/recursion",
+      "target": "https://gobyexample.com/"
+    }
+  ]
+}

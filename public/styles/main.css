@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #0f172a; /* Tailwind slate-900 */
+    color: #f8fafc;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+#graph-container {
+    width: 100vw;
+    height: 100vh;
+    cursor: grab;
+}
+
+#graph-container:active {
+    cursor: grabbing;
+}
+
+.node circle {
+    transition: stroke-width 0.2s, stroke 0.2s;
+}
+
+.node:hover circle {
+    stroke: #38bdf8; /* Sky 400 */
+    stroke-width: 3px;
+}
+
+.link {
+    stroke: #334155; /* Slate 700 */
+    stroke-opacity: 0.6;
+}
+
+/* Glassmorphism panel */
+.glass-panel {
+    background: rgba(30, 41, 59, 0.7); /* Slate 800 with opacity */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Custom scrollbar for sidebar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    background: #475569;
+    border-radius: 10px;
+}
+
+/* Tooltip styling */
+#tooltip {
+    position: absolute;
+    opacity: 0;
+    background: rgba(15, 23, 42, 0.95);
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(56, 189, 248, 0.3);
+    color: white;
+    padding: 10px 14px;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 0.875rem;
+    z-index: 50;
+    transform: translate(-50%, -100%);
+    margin-top: -15px;
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
+    transition: opacity 0.15s ease;
+}
+

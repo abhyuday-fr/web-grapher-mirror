@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Web Graph Visualizer</title>
+
+  <!-- External Libraries (Cleaned CDN links) -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+
+  <!-- Your Custom CSS -->
+  <link rel="stylesheet" href="/styles/main.css">
+</head>
+
+<body class="relative text-slate-200">
+
+  <!-- D3 Graph Canvas -->
+  <div id="graph-container"></div>
+
+  <!-- Tooltip -->
+  <div id="tooltip"></div>
+
+  <!-- UI Overlay: Top Left Header & Input -->
+  <div class="absolute top-6 left-6 z-10 w-96 pointer-events-auto">
+    <h1 class="text-3xl font-bold tracking-tight text-white flex items-center gap-3 drop-shadow-md">
+      <i data-lucide="network" class="w-8 h-8 text-sky-400"></i>
+      Web Graph
+    </h1>
+
+    <!-- URL Input Form -->
+    <form id="crawl-form" class="mt-4 flex gap-2">
+      <input type="url" id="url-input" required placeholder="https://example.com"
+        class="flex-1 bg-slate-800/80 border border-slate-600 rounded-lg px-4 py-2 text-white placeholder-slate-400 focus:outline-none focus:border-sky-400 focus:ring-1 focus:ring-sky-400 backdrop-blur-sm transition-all shadow-lg"
+        value="https://example.com">
+      <button type="submit" id="crawl-btn"
+        class="bg-sky-600 hover:bg-sky-500 text-white px-4 py-2 rounded-lg font-medium transition-colors flex items-center gap-2 shadow-lg">
+        <i data-lucide="search" class="w-4 h-4"></i>
+        <span>Map</span>
+      </button>
+    </form>
+
+    <p class="text-slate-300 text-sm mt-3 bg-slate-900/50 inline-block px-3 py-1 rounded-full backdrop-blur-md border border-slate-700/50 transition-all"
+      id="stats">Ready to map URLs.</p>
+  </div>
+
+  <!-- UI Overlay: Right Sidebar (Node Details) -->
+  <div id="sidebar"
+    class="absolute top-6 right-6 w-80 glass-panel rounded-xl shadow-2xl p-6 transform transition-transform duration-300 translate-x-[120%] z-20">
+    <div class="flex justify-between items-start mb-4">
+      <h2 class="text-xl font-semibold text-white">Node Details</h2>
+      <button id="close-sidebar" class="text-slate-400 hover:text-white transition-colors">
+        <i data-lucide="x" class="w-5 h-5"></i>
+      </button>
+    </div>
+
+    <div class="space-y-4">
+      <div>
+        <label class="text-xs font-semibold uppercase tracking-wider text-slate-500">URL</label>
+        <div id="node-url" class="mt-1 text-sm break-all font-mono text-sky-300">https://example.com/path</div>
+      </div>
+
+      <div>
+        <label class="text-xs font-semibold uppercase tracking-wider text-slate-500">Access Level</label>
+        <div id="node-status" class="mt-1 flex items-center gap-2 text-sm">
+          <span class="w-2 h-2 rounded-full bg-white"></span> Public
+        </div>
+      </div>
+
+      <div>
+        <label class="text-xs font-semibold uppercase tracking-wider text-slate-500">Connections</label>
+        <div id="node-connections" class="mt-1 text-sm text-slate-300">0 linked pages</div>
+      </div>
+    </div>
+
+    <div class="mt-8 pt-4 border-t border-slate-700/50">
+      <button id="visit-btn"
+        class="w-full flex items-center justify-center gap-2 bg-sky-600 hover:bg-sky-500 text-white py-2 px-4 rounded-lg transition-colors font-medium">
+        <i data-lucide="external-link" class="w-4 h-4"></i>
+        Visit Page
+      </button>
+      <p class="text-xs text-center text-slate-500 mt-3">Pro tip: Double-click a node to visit instantly.</p>
+    </div>
+  </div>
+
+  <!-- Your Custom Javascript -->
+  <script src="/scripts/app.js"></script>
+</body>
+
+</html>
