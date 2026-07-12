@@ -10,7 +10,7 @@ This visualization helps users understand how pages within a domain are intercon
 
 # Example
 
-<video width="640" height="360" controls="false"><source src="example/example.mp4" type="video/mp4"></video>
+<video width="640" height="360" controls="false"><source src="/example/example.mp4" type="video/mp4"></video>
 
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
