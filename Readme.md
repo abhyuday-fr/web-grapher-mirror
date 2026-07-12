@@ -10,10 +10,9 @@ This visualization helps users understand how pages within a domain are intercon
 
 # Example
 
-<video width="640" height="360" controls>
-  <source src="./example/example.mp4" type="video/mp4">
+<video src="example/example.mp4" width="100%" autoplay loop muted playsinline>
   Your browser does not support the video tag.
-</video>   
+</video>
 
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
