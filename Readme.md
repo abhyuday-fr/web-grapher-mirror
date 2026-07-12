@@ -10,7 +10,8 @@ This visualization helps users understand how pages within a domain are intercon
 
 # Example
 
-![Example Video](example/example.mp4)
+<video src="https://codeberg.org/abhyuday-fr/web-grapher/raw/branch/main/example/example.mp4" width="100%" autoplay loop muted playsinline>
+</video>
 
 ## Features
 - **Automated Crawling**: The system systematically explores the internal links of a provided domain.
